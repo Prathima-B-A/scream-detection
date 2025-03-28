@@ -6,4 +6,5 @@ sounddevice
 matplotlib
 soundfile
 ipython  # for display.Audio
-PortAudio
+pyaudio
+
